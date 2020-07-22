@@ -2,6 +2,9 @@
   "name": "shhhhh",
   "version": "1.0.0",
   "description": "dorking around with a friend",
+  "engines": {
+    "node": "12.x"
+  }
   "main": "server/index.js",
   "dependencies": {
     "colors": "^1.1.2",
