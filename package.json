@@ -4,7 +4,7 @@
   "description": "dorking around with a friend",
   "engines": {
     "node": "12.x"
-  }
+  },
   "main": "server/index.js",
   "dependencies": {
     "colors": "^1.1.2",
