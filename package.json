@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "dorking around with a friend",
   "engines": {
-    "node": "9.x"
+    "node": "8.x"
   },
   "main": "server/index.js",
   "dependencies": {
